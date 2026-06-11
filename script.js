@@ -2,7 +2,7 @@
 let username = "cute.dog";
 
 // 2. Change the number of followers from 10000 to another number.
-let followers = 10000;
+let followers = 5000;
 
 
 // DO NOT CHANGE THE CODE BELOW
